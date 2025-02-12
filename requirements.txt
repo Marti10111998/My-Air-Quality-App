@@ -4,3 +4,4 @@ statsmodels
 matplotlib
 pmdarima
 folium
+seaborn
