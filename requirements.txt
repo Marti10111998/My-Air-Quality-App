@@ -3,3 +3,4 @@ pandas
 statsmodels
 matplotlib
 pmdarima
+folium
