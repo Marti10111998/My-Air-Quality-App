@@ -5,3 +5,4 @@ matplotlib
 pmdarima
 folium
 seaborn
+streamlit_folium
